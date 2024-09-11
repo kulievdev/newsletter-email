@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-style> * { box-sizing: border-box; } </mj-style>
+        <mj-style inline="inline"></mj-style>
+    </mj-head>
+    <mj-body background-color="#F2F2F2">
+        <!-- Header Section -->
+        <mj-section padding="12px">
+            <mj-column width="85%">
+                <mj-text
+                    color="#666666"
+                    font-size="12px"
+                    align="left"
+                    padding="0"
+                >
+                    <span style="font-weight: bold">Alex</span> - There’s no
+                    impact to your credit score if you’re declined.
+                </mj-text>
+            </mj-column>
+            <mj-column width="15%">
+                <mj-text font-size="13px" align="right" padding="0">
+                    <a
+                        style="color: #666666"
+                        target="_blank"
+                        href="https://view.emails.paypal.com/?qs=8e54b9243bf18d10d588303118257b7cbff80c20cbedcaab8de4d3cc8380f696e866aa26b082a8d735e346dac2d368e38caee0fa17e2fb8672ecb03c51f24335bd6a1344f0c01f59b8c8baf743a02c4d"
+                        >View Online
+                    </a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FEFEFE" padding="0">
+            <mj-column>
+                <mj-image
+                    padding="26px 0"
+                    align="center"
+                    width="148px"
+                    alt="paypal text logo"
+                    src="./assets/text-logo.png"
+                    href=""
+                />
+            </mj-column>
+        </mj-section>
+        <!-- Header Section -->
+    </mj-body>
+</mjml>
