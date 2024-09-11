@@ -198,5 +198,15 @@
             </mj-column>
         </mj-section>
         <!-- Slogan Section -->
+        <mj-section background-color="#60CDFF" padding="0">
+            <mj-column>
+                <mj-image
+                    width="290px"
+                    align="center"
+                    alt="slogan image"
+                    src="./assets/paypal-text.png"
+                />
+            </mj-column>
+        </mj-section>
     </mj-body>
 </mjml>
