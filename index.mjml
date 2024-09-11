@@ -175,5 +175,28 @@
             </mj-section>
         </mj-wrapper>
         <!-- Apply Now-Bottom Section -->
+        <mj-section background-color="#fff" padding="30px 0">
+            <mj-column>
+                <mj-text
+                    padding="0 0 30px 0"
+                    font-size="24px"
+                    font-weight="500"
+                    align="center"
+                    >Earn with the PayPal Cashback Mastercard.
+                </mj-text>
+                <mj-button
+                    background-color="#000"
+                    color="#fff"
+                    font-size="18px"
+                    inner-padding="16px 30px"
+                    border-radius="50px"
+                    align="center"
+                    padding="0"
+                >
+                    Apply Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!-- Slogan Section -->
     </mj-body>
 </mjml>
