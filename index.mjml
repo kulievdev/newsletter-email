@@ -56,5 +56,38 @@
                 </mj-text>
             </mj-column>
         </mj-section>
+        <!-- Apply Now-Top Section -->
+        <mj-section padding="0">
+            <mj-column background-color="#fff" padding="0">
+                <mj-text
+                    font-size="16px"
+                    align="center"
+                    padding="30px 40px"
+                    line-height="22px"
+                >
+                    If approved, you’ll earn unlimited 3% cash back on all the
+                    brands you love when you check out with PayPal. Plus, earn
+                    1.5% on all other Mastercard purchases.<sup>1</sup>
+                </mj-text>
+                <mj-button
+                    background-color="#000"
+                    color="#fff"
+                    font-size="18px"
+                    inner-padding="16px 30px"
+                    border-radius="50px"
+                    align="center"
+                    padding="0 0 20px 0"
+                    href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fcredit-application&state=%252Fco%253Fpresent%253DclpCOB32CONTROLSIPRIMB%2526track%253DcltNHATESTCREATIVE9102024SYI5%2526utm_source%253Dsfmc%2526utm_medium%253Demail%2526utm_campaign%253DOW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5%2526sfmc_id%253D86C4TS2YER58Q%2526utm_content%253DApply_Now_CTA1&onboardData=%7B%22product_flow%22%3A%22cobrand%22%2C%22intent%22%3A%22credit%22%2C%22signUpRequest%22%3A%7B%22method%22%3A%22GET%22%2C%22url%22%3A%22https%3A%2F%2Fwww.paypal.com%2Fwelcome%2Fflow%2Fcredit%3Fflow%3DeyJyZXR1cm5VcmwiOiIvY3JlZGl0LWFwcGxpY2F0aW9uL2NvP3ByZXNlbnQ9Y2xwQ09CMzJDT05UUk9MU0lQUklNQiZ0cmFjaz1jbHROSEFURVNUQ1JFQVRJVkU5MTAyMDI0U1lJNSZ1dG1fc291cmNlPXNmbWMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249T1dfRU1fQUhfTUNfTklfTklfMjAyNDA5XzQ1ODQzMl9jbHROSEFURVNUQ1JFQVRJVkU5MTAyMDI0U1lJNSZzZm1jX2lkPTg2QzRUUzJZRVI1OFEmdXRtX2NvbnRlbnQ9QXBwbHlfTm93X0NUQTEiLCJjYW5jZWxVcmwiOiIvY3JlZGl0LWFwcGxpY2F0aW9uL2NvL2NhbmNlbCJ9%22%7D%7D&forceLogin=true"
+                >
+                    Apply Now
+                </mj-button>
+                <mj-image
+                    alt="phone"
+                    src="./assets/phone.png"
+                    href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fcredit-application&state=%252Fco%253Fpresent%253DclpCOB32CONTROLSIPRIMB%2526track%253DcltNHATESTCREATIVE9102024SYI5%2526utm_source%253Dsfmc%2526utm_medium%253Demail%2526utm_campaign%253DOW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5%2526sfmc_id%253D86C4TS2YER58Q%2526utm_content%253DHero_Image_2&onboardData=%7B%22product_flow%22%3A%22cobrand%22%2C%22intent%22%3A%22credit%22%2C%22signUpRequest%22%3A%7B%22method%22%3A%22GET%22%2C%22url%22%3A%22https%3A%2F%2Fwww.paypal.com%2Fwelcome%2Fflow%2Fcredit%3Fflow%3DeyJyZXR1cm5VcmwiOiIvY3JlZGl0LWFwcGxpY2F0aW9uL2NvP3ByZXNlbnQ9Y2xwQ09CMzJDT05UUk9MU0lQUklNQiZ0cmFjaz1jbHROSEFURVNUQ1JFQVRJVkU5MTAyMDI0U1lJNSZ1dG1fc291cmNlPXNmbWMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249T1dfRU1fQUhfTUNfTklfTklfMjAyNDA5XzQ1ODQzMl9jbHROSEFURVNUQ1JFQVRJVkU5MTAyMDI0U1lJNSZzZm1jX2lkPTg2QzRUUzJZRVI1OFEmdXRtX2NvbnRlbnQ9SGVyb19JbWFnZV8yIiwiY2FuY2VsVXJsIjoiL2NyZWRpdC1hcHBsaWNhdGlvbi9jby9jYW5jZWwifQ%3D%3D%22%7D%7D&forceLogin=true"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- Major Rewards Section -->
     </mj-body>
 </mjml>
