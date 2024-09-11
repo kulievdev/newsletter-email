@@ -203,10 +203,12 @@
                 <mj-image
                     width="290px"
                     align="center"
+                    padding="0"
                     alt="slogan image"
                     src="./assets/paypal-text.png"
                 />
             </mj-column>
         </mj-section>
+        <!-- Logo Section -->
     </mj-body>
 </mjml>
