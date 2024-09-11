@@ -40,6 +40,21 @@
                 />
             </mj-column>
         </mj-section>
-        <!-- Header Section -->
+        <!-- Put your money back Section -->
+        <mj-section background-color="#000" padding="0">
+            <mj-column>
+                <mj-text
+                    font-size="48px"
+                    color="#fff"
+                    padding="80px 120px"
+                    align="center"
+                    font-weight="500"
+                >
+                    Put money back <br />
+                    in your pocket with up to 3% <br />
+                    cash back.
+                </mj-text>
+            </mj-column>
+        </mj-section>
     </mj-body>
 </mjml>
