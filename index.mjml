@@ -89,5 +89,91 @@
             </mj-column>
         </mj-section>
         <!-- Major Rewards Section -->
+        <mj-wrapper background-color="#F6F7FA" padding="0">
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text
+                        padding="30px 0"
+                        font-size="22px"
+                        font-weight="bold"
+                        align="center"
+                    >
+                        Cash in on major rewards.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-image
+                        padding="0"
+                        align="center"
+                        width="38px"
+                        alt="credit card"
+                        src="./assets/credit-card.png"
+                    />
+                    <mj-text
+                        padding="10px 0"
+                        font-size="18px"
+                        font-weight="500"
+                        align="center"
+                    >
+                        No credit score impact if declined.<sup>2</sup>
+                    </mj-text>
+                    <mj-text padding="10px 0" font-size="16px" align="center">
+                        Plus, get a decision in seconds.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="28px">
+                <mj-column>
+                    <mj-image
+                        padding="0"
+                        align="center"
+                        width="38px"
+                        alt="rotate icon"
+                        src="./assets/rotate.png"
+                    />
+                    <mj-text
+                        padding="10px 0"
+                        font-size="18px"
+                        font-weight="500"
+                        align="center"
+                    >
+                        No rotating categories or annual fee.<sup>3</sup>
+                    </mj-text>
+                    <mj-text padding="10px 0" font-size="16px" align="center">
+                        There’s no limit on how much cash back you can earn.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0 0 30px 0">
+                <mj-column>
+                    <mj-image
+                        padding="0"
+                        align="center"
+                        width="38px"
+                        alt="dollar sign"
+                        src="./assets/dollar-sign.png"
+                    />
+                    <mj-text
+                        padding="10px 0"
+                        font-size="18px"
+                        font-weight="500"
+                        align="center"
+                    >
+                        Redeem your cash back.
+                    </mj-text>
+                    <mj-text
+                        padding="10px 60px 0 60px"
+                        font-size="16px"
+                        align="center"
+                    >
+                        Redeem cash back to your PayPal balance<sup>4</sup> as
+                        soon as purchases post to your account.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <!-- Apply Now-Bottom Section -->
     </mj-body>
 </mjml>
