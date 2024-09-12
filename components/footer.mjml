@@ -14,7 +14,7 @@
         <mj-column>
             <mj-text align="center" font-size="12px" padding="0 0 10px 0">
                 <a
-                    taget="_blank"
+                    target="_blank"
                     style="color: #000"
                     href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Fsummary&state=%3Futm_source%3Dsfmc%26utm_medium%3Demail%26utm_campaign%3DOW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5%26sfmc_id%3D86C4TS2YER58Q%26utm_content%3DAccount"
                     >Account
@@ -25,7 +25,7 @@
         <mj-column>
             <mj-text align="center" font-size="12px" padding="0 0 10px 0">
                 <a
-                    taget="_blank"
+                    target="_blank"
                     style="color: #000"
                     href="https://www.paypal.com/us/cshelp/personal"
                     >Help
@@ -36,7 +36,7 @@
         <mj-column>
             <mj-text align="center" font-size="12px" padding="0 0 10px 0">
                 <a
-                    taget="_blank"
+                    target="_blank"
                     style="color: #000"
                     href="https://www.paypal.com/webapps/mpp/paypal-fees?utm_source=sfmc&utm_medium=email&utm_campaign=OW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5&sfmc_id=86C4TS2YER58Q&utm_content=Fees"
                     >Fees
@@ -47,7 +47,7 @@
         <mj-column>
             <mj-text align="center" font-size="12px" padding="0 0 10px 0">
                 <a
-                    taget="_blank"
+                    target="_blank"
                     style="color: #000"
                     href="https://www.paypal.com/us/legalhub/privacy-full?utm_source=sfmc&utm_medium=email&utm_campaign=OW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5&sfmc_id=86C4TS2YER58Q&utm_content=Privacy_Cookies"
                     >Privacy/Cookies
@@ -58,7 +58,7 @@
         <mj-column>
             <mj-text align="center" font-size="12px" padding="0 0 10px 0">
                 <a
-                    taget="_blank"
+                    target="_blank"
                     style="color: #000"
                     href="https://www.paypal.com/us/digital-wallet/mobile-apps?utm_source=sfmc&utm_medium=email&utm_campaign=OW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5&utm_content=Apps"
                     >Apps
@@ -69,7 +69,7 @@
         <mj-column>
             <mj-text align="center" font-size="12px" padding="0">
                 <a
-                    taget="_blank"
+                    target="_blank"
                     style="color: #000"
                     href="https://www.paypal.com/us/webapps/mpp/offers?utm_source=sfmc&utm_medium=email&utm_campaign=OW_EM_AH_MC_NI_NI_202409_458432_cltNHATESTCREATIVE9102024SYI5&sfmc_id=86C4TS2YER58Q&utm_content=Shop"
                     >Shop
